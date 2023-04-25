@@ -175,10 +175,10 @@ Partial Class Form1
         dgvCustomers.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
         dgvCustomers.Columns.AddRange(New DataGridViewColumn() {NameDataGridViewTextBoxColumn, SurnameDataGridViewTextBoxColumn, AddressDataGridViewTextBoxColumn, ContactDataGridViewTextBoxColumn})
         dgvCustomers.DataSource = CustomerBindingSource
-        dgvCustomers.Location = New Point(12, 12)
+        dgvCustomers.Location = New Point(12, 13)
         dgvCustomers.Name = "dgvCustomers"
         dgvCustomers.RowTemplate.Height = 25
-        dgvCustomers.Size = New Size(439, 272)
+        dgvCustomers.Size = New Size(446, 267)
         dgvCustomers.TabIndex = 17
         ' 
         ' NameDataGridViewTextBoxColumn

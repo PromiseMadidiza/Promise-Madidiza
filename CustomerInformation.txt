@@ -1,5 +1,0 @@
-ID	Name	Contact Number	Address
-1	Zandile Chauke	(0)735473763	4642 Maduna Drive
-2	Coco Adams	(0)855636587	77 Lembe Street
-3	James Nicole	(0)634375947	05 James Road
-4	Joshua Hau	(0)632537843	55 Dedani Street
