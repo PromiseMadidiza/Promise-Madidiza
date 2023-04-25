@@ -47,6 +47,10 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.33, )"
@@ -62,6 +66,10 @@
             "System.Data.OleDb": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.2, )"
             }
           },
           "imports": [
